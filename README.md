@@ -43,7 +43,7 @@ This project demonstrates how to:
 ---
 
 ## 🧩 Project Structure
-
+```
 alx_travel_app/
 ├── alx_travel_app/
 │ ├── init.py
@@ -58,10 +58,7 @@ alx_travel_app/
 ├── manage.py
 ├── .env
 └── requirements.txt
-
-yaml
-Copy
-Edit
+```
 
 ---
 
